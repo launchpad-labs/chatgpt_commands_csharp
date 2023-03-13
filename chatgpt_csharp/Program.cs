@@ -8,7 +8,7 @@ using OpenAI.GPT3.ObjectModels;
 
 public static class Constants
 {
-    public const string API_KEY="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";
+    public const string API_KEY="YOUR API KEY";
 }
 
 namespace ConsoleApp1

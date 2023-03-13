@@ -41,8 +41,8 @@ If you have any questions or feedback, please don't hesitate to contact me at <a
 Commandline usage examples:
 ---------------------------
 
-dotnet run "What is the capital of France?"
-dotnet run "Who put the bomp in the bompabompabomp?"
-dotnet run "Explain the basics of the theory of relativity, in the voice of an 18th century cockney chimneysweep"
-dotnet run "What is the capital of Brunei and what does that name literally translate as?"
-dotnet run "Write a good example of a standard C# readme file that includes instructions for how to install the application and run it."
+dotnet run "What is the capital of France?"  
+dotnet run "Who put the bomp in the bompabompabomp?"  
+dotnet run "Explain the basics of the theory of relativity, in the voice of an 18th century cockney chimneysweep"  
+dotnet run "What is the capital of Brunei and what does that name literally translate as?"  
+dotnet run "Write a good example of a standard C# readme file that includes instructions for how to install the application and run it."  
